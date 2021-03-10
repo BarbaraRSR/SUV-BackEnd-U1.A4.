@@ -1,0 +1,32 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  color: #2f2f2f;
+  background-image: url("https://neomotor.sport.es/media/fondoblanco.jpg");
+}
+
+h1 {
+  color: #2a2a2a;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+h3 {
+  color: #ff0000;
+  font-family: 'Roboto', sans-serif;
+}
+
+.cont {
+    padding: 10px 50px;
+}
+
+.actividad {
+    background-color: white;
+    padding: 15px;
+}
+
+img {
+    float: left;
+    width: 100px;
+    margin: 5px;
+}
+}
